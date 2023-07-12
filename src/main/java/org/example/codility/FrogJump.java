@@ -12,6 +12,6 @@ public class FrogJump {
     }
 
     public static void main(String[] args) {
-        System.out.println(new FrogJump().solution(0));
+        System.out.println(new FrogJump().solution(10, 85, 30));
     }
 }
